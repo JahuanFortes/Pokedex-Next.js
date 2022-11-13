@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply bg-red-600;
+}
+
+footer {
+  margin: auto;
+  margin-top: 7.7rem;
+  margin-bottom: 0;
+  padding: 1em;
+}
